@@ -1,2 +1,2 @@
-# phonegap-ionic-task-manager
-Ionic Task Manager
+#Ionic Task Manager 
+##on Phonegap platform
