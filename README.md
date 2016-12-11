@@ -1,2 +1,2 @@
-#Ionic Task Manager 
-##on Phonegap platform
+#Basic Task Manager 
+##on Ionic platform
